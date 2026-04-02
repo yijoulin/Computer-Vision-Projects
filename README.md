@@ -32,7 +32,9 @@ Apply geometric transformations without losing pixel information or introducing 
 - Rotation matrix transformation  
 - Inverse mapping to avoid pixel gaps  
 - Center-based coordinate transformation  
-- Skew transformation using affine matrices  
+- Skew transformation using affine matrices
+  <img width="839" height="271" alt="image" src="https://github.com/user-attachments/assets/d6f9e091-5fff-4e63-84cd-352d0db0c8f6" />
+
 
 **Key Takeaways**
 - Inverse mapping prevents missing pixels  
@@ -113,6 +115,8 @@ Detect and count moving objects in video.
 - Median filtering (denoising)  
 - Morphological operations (dilation)  
 - Connected components (DFS)
+  
+<img width="1170" height="311" alt="image" src="https://github.com/user-attachments/assets/f2a24743-7c23-4d5e-8da0-458243529408" />
 
 **Key Takeaways**
 - Background modeling improves detection of distant objects  
@@ -136,19 +140,6 @@ Detect and count moving objects in video.
 - NumPy  
 - OpenCV (limited use)  
 - Matplotlib  
-
----
-
-## Applications
-
-These methods are foundational in real-world systems such as:
-
-- Autonomous driving (edge detection, segmentation)  
-- Video surveillance (object detection & counting)  
-- Content analysis (scene change detection)  
-- Image enhancement pipelines  
-
----
 
 ## Full Report
 
