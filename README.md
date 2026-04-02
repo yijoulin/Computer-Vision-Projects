@@ -20,9 +20,6 @@ All methods are implemented with minimal reliance on high-level APIs to emphasiz
 
 ---
 
-
----
-
 ## Notebooks
 
 ### 1. Image Transformation  
